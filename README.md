@@ -57,21 +57,24 @@ The target variable for prediction is:
 Finishing position
 
 ## Machine Learning Models
-1. Linear Regression
+### 1. Linear Regression
+
 Used as a baseline model
 
 Provides interpretability but assumes linear relationships
 
 Struggled to capture the complexity of race dynamics
 
-2. Random Forest Regressor
+### 2. Random Forest Regressor
+
 Captures non‑linear feature interactions
 
 Improved predictive performance compared to Linear Regression
 
 More robust to feature interactions and noise
 
-3. Artificial Neural Network (ANN)
+### 3. Artificial Neural Network (ANN)
+
 Designed to model complex, non‑linear relationships
 
 Implemented using PyTorch
@@ -142,11 +145,16 @@ Matplotlib / Seaborn
 
 ## Project Structure
 ├── data/                # Raw and processed datasets
+
 ├── notebooks/           # Model training and evaluation notebooks
+
 ├── models/              # Saved trained models
+
 ├── figures/             # Plots and visualisations
+
 ├── README.md
 
  ## Author
 Aayosha Nepali
+
 Project: Artificial Intelligence
