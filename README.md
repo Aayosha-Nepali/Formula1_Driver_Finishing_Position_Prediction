@@ -24,6 +24,7 @@ Compare model performance using standard evaluation metrics
 Demonstrate real‑world applicability of machine learning in sports analytics
 
 ## Dataset & Features
+
 The dataset was created by combining several Formula 1 data sources, including:
 
 Drivers
@@ -142,17 +143,6 @@ Scikit‑learn
 PyTorch
 
 Matplotlib / Seaborn
-
-## Project Structure
-├── data/                # Raw and processed datasets
-
-├── notebooks/           # Model training and evaluation notebooks
-
-├── models/              # Saved trained models
-
-├── figures/             # Plots and visualisations
-
-├── README.md
 
  ## Author
 Aayosha Nepali
